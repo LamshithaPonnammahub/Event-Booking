@@ -26,7 +26,7 @@ Tools: Nodemon, Postman
 
 ## INSTALLATION AND SETUP :
 
-Clone the repository:   git clone https://github.com/LamshithaPonnammahub/Event_Management.git
+Clone the repository:   git clone https://github.com/LamshithaPonnammahub/Event-Booking.git
                         cd Event_Management
 Install dependencies:   npm install
 Run the server:         node index.js
